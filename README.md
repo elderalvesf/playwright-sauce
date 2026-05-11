@@ -1,6 +1,6 @@
 # qa-playwright-ts-pom
 
-[![E2E Tests — Playwright](https://github.com/elderalvesf/playwright-sauce/actions/workflows/ci.yml/badge.svg)](https://github.com/elderalvesf/playwright-sauce/actions/workflows/ci.yml)
+[![E2E Tests — Playwright](https://github.com/elderalvesf/playwright-sauce/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/elderalvesf/playwright-sauce/actions/workflows/ci.yml)
 
 Professional E2E test automation framework using **Playwright v1.40+**, **TypeScript**, **Page Object Model**, and **Playwright Fixtures** — testing [SauceDemo](https://www.saucedemo.com) across Chromium, Firefox and WebKit.
 
