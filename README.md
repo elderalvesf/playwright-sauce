@@ -4,9 +4,6 @@
 
 Professional E2E test automation framework using **Playwright v1.40+**, **TypeScript**, **Page Object Model**, and **Playwright Fixtures** — testing [SauceDemo](https://www.saucedemo.com) across Chromium, Firefox and WebKit.
 
-> Part of a public QA portfolio series. [Projeto 1](https://github.com/elderalvesf/qa-webdriverio-js-pom) uses WebDriverIO + JavaScript on the same app — intentionally — to demonstrate the architectural and ergonomic differences between frameworks.
-
----
 
 ## Tech Stack
 
